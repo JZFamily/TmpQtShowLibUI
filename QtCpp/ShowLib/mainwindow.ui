@@ -67,9 +67,9 @@
   </widget>
   <action name="actionOpen">
    <property name="icon">
-    <iconset>
-     <normaloff>:/rc/rc/icon/folder-circleci-open.png</normaloff>
-     <normalon>:/rc/icon/folder-circleci-open.png</normalon>:/rc/rc/icon/folder-circleci-open.png</iconset>
+    <iconset resource="rc.qrc">
+     <normaloff>:/rc/icon/folder-circleci-open.png</normaloff>
+     <normalon>:/rc/icon/folder-circleci-open.png</normalon>:/rc/icon/folder-circleci-open.png</iconset>
    </property>
    <property name="text">
     <string>Open</string>
